@@ -22,7 +22,9 @@ import org.testng.annotations.Test;
 import com.fox.pages.ShowsPage;
 
 
-public class SampleTest {
+public class SampleTest 
+
+{
 	
 	@SuppressWarnings("resource")
 	@Test
